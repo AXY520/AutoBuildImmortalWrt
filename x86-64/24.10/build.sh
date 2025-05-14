@@ -40,6 +40,7 @@ PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-alist-zh-cn"
 PACKAGES="$PACKAGES luci-app-mosdns"
+PACKAGES="$PACKAGES luci-app-turboacc"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
