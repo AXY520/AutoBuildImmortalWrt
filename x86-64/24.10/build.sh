@@ -36,11 +36,10 @@ PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
-PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-alist-zh-cn"
-PACKAGES="$PACKAGES luci-app-mosdns"
-PACKAGES="$PACKAGES luci-app-turboacc"
+PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn”
+PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn”
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
